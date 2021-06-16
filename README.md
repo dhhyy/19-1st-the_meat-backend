@@ -54,6 +54,7 @@ sticky 사용을 위해 Nav 컴포넌트 분리
 
 #### 유동헌
 ❗️기술구현
+
 회원가입 시 bcrypt 사용하여 단방향 암호화 진행
 
 로그인 시 jwt(JSON Web Token) 토큰 발행
